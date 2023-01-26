@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>❤️Yogeswar's Site</title>
+    <link rel="stylesheet" href="C:\Users\Yogi\Music\Web Dev\HTML-personal site\css\styles.css">
+  
+</head>
+
+<body>
+    
+    <table cellspacing="20">
+        <tr>
+            <td><img src="https://images2.imgbox.com/f1/8c/F98WSbAR_o.png" alt="Batman's Cool Proile Picture"></td>
+            <td><h1>My Resume-<br>Pennamada  Yogeswar Reddy ❤️</h1> <p>
+                <em> Iam <i> Student At <strong>Vitap</strong> Scope</i></em> <hr>
+            </p>
+            <p>Detail Oriented, focused and a data science enthusiast. Graduate Student pursuing Master's in Data Analytics Engineering.</p>
+            <p>I am skilled in implementing machine learning algorithms and data analysis on large dataset. I have experience of working in Python, R, C++, SQL and visualization tools like Tableau.</p></td>
+        </tr>
+    </table>
+    
+    <hr> <h2>Skills:</h2>
+    <table cellspacing-="10">
+        <tr>
+            <td> <i> IOS Development</i> </td> <td>⭐⭐⭐⭐</td> <td> <i> Photogaphy</i></td><td>⭐⭐⭐</td>
+        </tr>
+        <tr><td><i>Android Development</i></td><td>⭐⭐⭐⭐</td><td><i>Painting</i></td><td>⭐⭐</td></tr>
+    </table>
+    
+   
+    <p>	
+        Programming Languages: Python, R, SQL, C++, C <br>	
+        Data Visualization Tools: Tableau, Power BI <br>	
+        ML Libraries and Packages: NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch, Tensorflow, Plotly, ggplot2 <br>	
+        Tools: MySQL, PostgreSQL, SQL Server, NoSQL
+    </p>	
+        <p>
+            I am determined, passionate and looking for new opportunities as a Data scientist or a Data Analyst profile.</p>
+        </p>	
+    <hr>
+    <h3>Books and Teaching📚📑</h3>
+    <ul>
+        <li>Mans Search for meaning </li>
+        <li>Wings of Fire  </li>
+        <li> <a href="https://medium.com/"> <em> <strong> Reading Articles about the latest technologies</a></strong></em> </li>
+        <li>Reading Phyloshpy Books</li>
+        <li>Watching Sitcomes</li>
+        <li> Playing Chess</li>
+    </ul>
+    <h3><a href="C:\Users\Yogi\Music\Web Dev\HTML-personal site\contact.html"><strong>Contact Me</strong></a></h3>
+    <h3>Work experience</h3>
+    <table border="2">
+       <thead>
+        <tr>
+            <th> Company name</th>
+            <th>Joining Year</th>
+            <th>Exit Year</th>
+        </tr>
+       </thead>
+       <tbody>
+        <tr>
+            <td> Vit ap</td>
+            <td>2010</td>
+            <td>2013</td>
+        </tr>
+        <tr>
+            <td>MIT</td>
+            <td>2013</td>
+            <td>2019</td><td>2019</td>
+        </tr>
+        <tr>
+            <td>Cit</td>
+            <td>2019</td>
+            <td>2020</td>
+        </tr>
+       </tbody>
+    </table>
+</body>
+
+</html>
